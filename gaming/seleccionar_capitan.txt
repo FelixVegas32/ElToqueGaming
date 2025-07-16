@@ -1,0 +1,4 @@
+﻿INSERT INTO equipos (nombre_equipo, id_capitan, logo_url) 
+VALUES ('Mataburras21', 6, 'https://img.freepik.com/vector-gratis/logotipo-juegos-diseno-plano_23-2150747169.jpg?w=740');
+
+UPDATE usuarios SET id_equipo_actual = "id numero" WHERE id = "id usuario";
